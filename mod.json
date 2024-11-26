@@ -1,0 +1,16 @@
+{
+	"displayName": "Yet Another Weapon Collector Edition",
+	"version": "1.0",
+	"buildNumber": 2,
+	"description": "",
+	"author": "Merlockx, xDeadraiserx",
+	"authorURL": "",
+	"defaultLoadOrder": 1000,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/UI/Mech/HUD_Weapon.uasset"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}
