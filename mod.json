@@ -5,7 +5,7 @@
 	"description": "",
 	"author": "Merlockx, xDeadraiserx",
 	"authorURL": "",
-	"defaultLoadOrder": 1000,
+	"defaultLoadOrder": 0,
 	"gameVersion": "1.1.0",
 	"manifest": [
 		"/Game/UI/Mech/HUD_Weapon.uasset"
