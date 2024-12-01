@@ -8,6 +8,12 @@
 	"defaultLoadOrder": 0,
 	"gameVersion": "1.1.0",
 	"manifest": [
+		"/Game/Objects/Projectiles/_common/Projectile.uasset",
+		"/Game/Objects/Projectiles/_common/Ray.uasset",
+		"/Game/Objects/Weapons/_common/WeaponComponents/WeaponEmitter_AMS.uasset",
+		"/Game/Objects/Weapons/_common/WeaponComponents/WeaponEmitter_Missile.uasset",
+		"/Game/Objects/Weapons/_common/WeaponComponents/WeaponEmitter_Projectile.uasset",
+		"/Game/Objects/Weapons/_common/WeaponComponents/WeaponEmitter_Trace.uasset",
 		"/Game/UI/Mech/HUD_Weapon.uasset"
 	],
 	"steamPublishedFileId": 0,
